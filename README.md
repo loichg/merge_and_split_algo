@@ -1,7 +1,7 @@
 # Merge and Split : Coopération Équitable dans les Réseaux Sans Fil
 
 Ce projet implémente l'algorithme **Merge and Split** appliqué à la formation de coalitions d'émetteurs à antenne unique dans les réseaux sans fil. L'objectif est de permettre aux utilisateurs de s'auto-organiser pour maximiser leur utilité tout en minimisant les coûts liés à la coopération.
-
+ 
 ## Présentation du Projet
 Dans un système de transmission **TDMA**, les émetteurs forment des coalitions disjointes pour optimiser la capacité totale du réseau. L'algorithme étudie l'équilibre entre :
 * **L'Utilité :** La capacité de transmission atteinte par une coalition.
