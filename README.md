@@ -45,4 +45,4 @@ Le projet permet de générer :
 - Une animation (mobilite.gif) montrant la reconfiguration en temps réel du réseau.
 
 ## Auteurs
-Projet réalisé par Loïc Huang, Thomas Aubertier et Pascal Pham dans le cadre du cursus MAIN3 à Polytech Sorbonne Université (Mai 2024).
+Projet réalisé par Loïc Huang, Thomas Aubertier et Pascal Pham dans le cadre du cursus MAIN3 à Polytech Sorbonne.
